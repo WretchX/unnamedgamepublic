@@ -1,1 +1,3 @@
-# unnamedgamepublic
+# public test version
+
+compile w autoit
